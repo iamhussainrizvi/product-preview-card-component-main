@@ -1,6 +1,6 @@
 # Frontend Mentor - Product preview card component solution
 
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa).
+This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa){target="_blank"}.
 
 ### Built with
 
@@ -16,5 +16,5 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - use of sup  tag.
 -application of text-transform, text-decoration, letter spacing , line-height css properties.
 
-### Hosted [Link](https://card-product-preview-frontend-mentor.netlify.app/) of the HTML-CSS Design
+### Hosted [Link](https://card-product-preview-frontend-mentor.netlify.app/){target="_blank"} of the HTML-CSS Design
 
