@@ -15,3 +15,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - application of flex-box
 - use of sup  tag.
 -application of text-transform, text-decoration, letter spacing , line-height css properties.
+
+### Hosted Link of the HTML-CSS Design
+
