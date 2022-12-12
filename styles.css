@@ -21,6 +21,10 @@ img{
     border-bottom-left-radius:25px ;
 }
 
+.img-mobile{
+    display: none;
+}
+
 .text-container{
     font-family: "Montserrat";
     padding: 20px;
@@ -41,6 +45,12 @@ h1{
     font-family: Fraunces;
     font-size: 32px;
     font-weight: bold;
+}
+
+span::after{
+ content:"\a";
+ white-space: pre;
+
 }
 
 .text-container p:nth-child(3){
