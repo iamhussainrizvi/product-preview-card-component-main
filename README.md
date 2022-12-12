@@ -11,7 +11,17 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### What I learned
 
+<<<<<<< HEAD
 importace of giving css class meaningful names.
 application of flex-box
 use of <sup> tag.
 application of text-transform, text-decoration, letter spacing , line-height css properties.
+=======
+- importace of giving css class meaningful names.
+- application of flex-box
+- use of sup  tag.
+-application of text-transform, text-decoration, letter spacing , line-height css properties.
+
+### Hosted [Link](https://card-product-preview-frontend-mentor.netlify.app/) of the HTML-CSS Design
+
+>>>>>>> feec9fd14484704f55690b5f7497a52033d1060b

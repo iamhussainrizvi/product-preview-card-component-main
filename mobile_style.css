@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @media screen and (max-width:645px ){
     
     *{
@@ -38,3 +39,45 @@
 
 
 }
+=======
+@media screen and (max-width:645px ){
+    
+    *{
+        /* display: none; */
+    }
+
+    .container{
+        display: flex;
+        flex-direction:column;
+    }
+
+    .img-desktop{
+        display: none;
+    }
+
+    .img-mobile{
+        display:block;
+        width: 100%;
+        border-top-right-radius:25px;
+        border-bottom-left-radius: 0;
+    }
+
+    h1{
+        font-size: 40px;;
+    }
+    span::after{
+        content: none;
+    }
+
+    p:nth-child(3){
+        font-size: 20px;;
+    }
+
+    .btn{
+        font-size: 20px;
+        width: 100%;
+    }
+
+
+}
+>>>>>>> feec9fd14484704f55690b5f7497a52033d1060b
